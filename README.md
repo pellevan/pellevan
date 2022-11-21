@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [BUas Intake Assignment](https://github.com/pellevan/BUasProjectbyPelle)
 
-- 🌱 I’m currently learning **Graphics Programming and API's**
+- 🌱 I’m currently learning **Back-end development (Django, PHP, databases)**
 
-- 👯 I’m looking to collaborate on **OpenGL Graphic Library Development**
+- 👯 I’m looking to collaborate on **Marketing & web development**
 
 - 📫 How to reach me **pellescw@gmail.com**
 
